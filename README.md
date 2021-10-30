@@ -6,5 +6,6 @@
 - 2164.cpp: 카드 2 (https://www.acmicpc.net/problem/2164)
 - 15828.cpp: Router (https://www.acmicpc.net/problem/15828)
 - 9184.cpp: 신나는 함수 실행 (https://www.acmicpc.net/problem/9184)
+- 12865.cpp: 평범한 배낭 (https://www.acmicpc.net/problem/12865)
 
 ~22.10.11.
