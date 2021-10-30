@@ -1,4 +1,4 @@
-//백준 2164: 카드 2
+//No.2164: 카드 2
 //분류: 큐 (Queue)
 //https://www.acmicpc.net/problem/2164
 
