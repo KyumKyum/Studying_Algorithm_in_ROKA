@@ -1,4 +1,4 @@
-//백준 1158: 요세푸스 문제
+//No.1158: 요세푸스 문제
 //분류: 큐(Queue)
 //https://www.acmicpc.net/problem/1158
 
