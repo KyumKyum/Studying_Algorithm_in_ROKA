@@ -1,4 +1,4 @@
-//백준 9184 : 신나는 함수 실행
+//No.9184 : 신나는 함수 실행
 //분류: 동적 할당(Dynamic Programming) , 재귀 호출 (Recursive Call)
 //https://www.acmicpc.net/problem/9184
 
