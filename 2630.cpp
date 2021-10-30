@@ -1,4 +1,4 @@
-//백준 2630: 색종이만들기
+//No.2630: 색종이만들기
 //분류: 분할정복 (Divide & Conquer)
 //https://www.acmicpc.net/problem/2630
 
