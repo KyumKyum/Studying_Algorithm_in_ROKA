@@ -1,4 +1,4 @@
-//백준 15828: Router
+//No.15828: Router
 //분류: 큐 (Queue)
 //https://www.acmicpc.net/problem/15828
 
