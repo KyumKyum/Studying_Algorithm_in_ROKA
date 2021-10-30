@@ -5,5 +5,6 @@
 - 1158.cpp: 요세푸스 문제 (https://www.acmicpc.net/problem/1158)
 - 2164.cpp: 카드 2 (https://www.acmicpc.net/problem/2164)
 - 15828.cpp: Router (https://www.acmicpc.net/problem/15828)
+- 9184.cpp: 신나는 함수 실행 (https://www.acmicpc.net/problem/9184)
 
 ~22.10.11.
