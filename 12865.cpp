@@ -1,6 +1,6 @@
 // No.12865: 평범한 배낭
 // 분류: 동적 할당(Dynamic Programming), 0/1 배낭 문제 (0/1 Knapsack Problem)
-//acmicpc.net/problem/12865
+//https://www.acmicpc.net/problem/12865
 
 
 #include <iostream>
