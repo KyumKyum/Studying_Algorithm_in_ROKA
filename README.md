@@ -7,5 +7,6 @@
 - 15828.cpp: Router (https://www.acmicpc.net/problem/15828)
 - 9184.cpp: 신나는 함수 실행 (https://www.acmicpc.net/problem/9184)
 - 12865.cpp: 평범한 배낭 (https://www.acmicpc.net/problem/12865)
+- 14501.cpp: 퇴사 (https://www.acmicpc.net/problem/14501)
 
 ~22.10.11.
