@@ -15,7 +15,7 @@ int maxProf = UNDEFINED;
 
 int select(int date){
 
-    if(date > N || date + T[date] > N + 1)) //Base Condition #1: If counseling time exceeds the resing date, or it already exceeds currently.
+    if(date > N || date + T[date] > N + 1) //Base Condition #1: If counseling time exceeds the resing date, or it already exceeds currently.
         return UNDEFINED;
         
     
